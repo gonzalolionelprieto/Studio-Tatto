@@ -5,7 +5,7 @@ export default function Form() {
       <div className="container py-5 form" id='form'>
           <div className="row">
 
-                <div className="col-12 col-lg-8 mx-auto form-container d-flex flex-column  justify-content-end align-items-center">
+                <div className="col-12 col-lg-7 mx-auto form-container d-flex flex-column  justify-content-end align-items-center">
                         <form className='col-12 d-flex flex-column justify-content-center ms-auto'>
                         <div className="col-12 mb-3  d-flex flex-column justify-content-start align-items-center">
                            
@@ -25,7 +25,7 @@ export default function Form() {
                         </form>
                             
                 </div>
-                <div className="col-12 col-lg-8  mb-2 me-auto mx-auto d-flex flex-column align-items-center border-dark">
+                <div className="col-12 col-lg-7  mb-2 me-auto mx-auto d-flex flex-column align-items-center border-dark">
                 <textarea class="form-control border-dark" id="exampleFormControlTextarea1" rows="3" style={{height:"100%"}} placeholder='Your comment..'></textarea>
                 
                 
