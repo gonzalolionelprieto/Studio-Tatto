@@ -16,9 +16,8 @@ export default function Piercing() {
                     </div>
                 
         
-                    <h2 className='col text-center py-4'>I'M A TITLE. CLICK HERE TO EDIT.</h2>
-
-                    <p className='col col-lg-6 mx-auto text-center py-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae aut debitis dolores quisquam tempore fugiat distinctio vel expedita ut qui maiores reprehenderit quod soluta voluptates ducimus, sed consequatur odio dolore nesciunt quas illum dicta repudiandae quos. Totam labore possimus fuga ipsam vitae rem atque exercitationem distinctio laudantium, ad sint eligendi illum esse nobis. Porro delectus sint quam  blanditiis!</p>
+                    
+                    <p className='col col-lg-6 mx-auto text-center py-4'>We provide Full Body Piercing Services in a Professional Sterile Environment. We Carry the Highest in Quality Surgical Stainless Steel, Titanium, 14 kg Gold & More</p>
 
                     <div className="col-12 d-flex  justify-content-center pt-1">
 
